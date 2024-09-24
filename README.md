@@ -8,6 +8,6 @@ Buscador de gifs similar ao [GIPHY](https://play.google.com/store/apps/details?i
   * Compartilhamento com amigos
 ## Demo
 <div class ="inline-block">
-  <img src="https://raw.githubusercontent.com/GustavoSardinha/DEMO-GIFs/main/gif_manager.gif" alt="Home Page Gif" width="300"/>
+  <img src="https://github.com/GustavoSardinha/DEMO-GIFs/blob/main/gif_manager.gif" alt="Home Page Gif" width="300"/>
   <img src="https://raw.githubusercontent.com/GustavoSardinha/DEMO-GIFs/main/gif_manager2.gif" alt="Home Page Gif" width="274"/>
 </div>
