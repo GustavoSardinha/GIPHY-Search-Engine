@@ -1,11 +1,15 @@
 # Clone do GIPHY-Search-Engine
-
-Buscador de gifs similar ao [GIPHY](https://play.google.com/store/apps/details?id=com.giphy.messenger&hl=pt_BR&pli=1), no qual é possível ver gifs em alta, pesquisar com palavras chaves e compartilha-los através de outros apps.
+ Buscador de GIFs semelhante ao [GIPHY](https://play.google.com/store/apps/details?id=com.giphy.messenger&hl=pt_BR&pli=1), permitindo visualizar GIFs populares, realizar pesquisas por palavras-chave e compartilhá-los facilmente em outros aplicativos
 
 ## Features
- * Interface que mostra os gifs em alta
-  * Campo de busca para filtrar gifs por palavras chaves
-  * Compartilhamento com amigos
+- **Interface intuitiva** que exibe os GIFs em alta
+- **Campo de busca** para filtrar GIFs por palavras-chave
+- **Compartilhamento fácil** com amigos
+- **Botão de carregar mais** para buscar mais GIFs
+
+## Stacks
+ Este projeto foi desenvolvido com o framework Flutter, integrado à API do [GIPHY](https://developers.giphy.com/). O aplicativo faz requisições à API para buscar as URLs dos GIFs, utilizando uma paginação que carrega 19 GIFs por vez
+
 ## Demo
 <div class ="inline-block">
   <img src="https://github.com/GustavoSardinha/DEMO-GIFs/blob/main/gif_manager.gif" alt="Home Page Gif" width="300"/>
