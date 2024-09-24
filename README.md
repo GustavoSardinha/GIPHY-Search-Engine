@@ -9,6 +9,17 @@
 
 ## Stacks
  Este projeto foi desenvolvido com o framework Flutter, integrado à API do [GIPHY](https://developers.giphy.com/). O aplicativo faz requisições à API para buscar as URLs dos GIFs, utilizando uma paginação que carrega 19 GIFs por vez
+### Descrição:
+
+- **Flutter** (Dart)
+- **API da GIPHY**
+  
+### Pacotes:
+- **Pacote http** para realizar os gets na API
+- **Pacote share_plus** para integrar o compartilhamento
+- **Pacote transparent_image** para criar transições mais suaves
+- **Para consultar as versões, abra o pubspec.yaml**
+
 
 ## Demo
 <div class ="inline-block">
