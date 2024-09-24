@@ -18,7 +18,7 @@
 - **Pacote http** para realizar os gets na API
 - **Pacote share_plus** para integrar o compartilhamento
 - **Pacote transparent_image** para criar transições mais suaves
-- **Para consultar as versões, abra o pubspec.yaml**
+- Para consultar as versões, abra o pubspec.yaml
 
 
 ## Demo
