@@ -26,3 +26,11 @@
   <img src="https://github.com/GustavoSardinha/DEMO-GIFs/blob/main/gif_manager.gif" alt="Home Page Gif" width="300"/>
   <img src="https://raw.githubusercontent.com/GustavoSardinha/DEMO-GIFs/main/gif_manager2.gif" alt="Home Page Gif" width="274"/>
 </div>
+
+## Instalação
+
+**Atenção:** A chave da API está em modo de depuração (debug mode), portanto, o instalável foi gerado em build de debug. 
+<br>
+Clique no link abaixo e instale o app no seu dispostivo ou emulador **Android:**
+<br>
+[Download](https://drive.google.com/file/d/1kL8op3F0di8Mpu3Vd3cspq2bcdmqfAwH/view?usp=sharing)
